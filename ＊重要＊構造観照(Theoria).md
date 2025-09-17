@@ -156,8 +156,7 @@ SSDにおいて「跳躍」は、創造や発見といった肯定的な結果�
 ---
 
 ## 関連概念
-- [意味圧とは](./意味圧とは.md)
-- [整合とは何か](./整合とは何か.md)
-- [跳躍とは何か](./跳躍とは何か.md)
-- [語り圏深度モデル](./語り圏深度モデル.md)
-- [構造主観力学 核心理論](./核心理論.md)
+- [意味圧とは](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%84%8F%E5%91%B3%E5%9C%A7%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+- [整合とは何か](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%95%B4%E5%90%88%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+- [跳躍とは何か](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B7%B3%E8%BA%8D%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+- [語り圏深度モデル](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9ASSD%E8%AA%9E%E3%82%8A%E5%9C%8F%E6%B7%B1%E5%BA%A6%E3%83%A2%E3%83%87%E3%83%AB%20v6.md)

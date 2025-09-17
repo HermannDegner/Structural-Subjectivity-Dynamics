@@ -14,9 +14,9 @@ SSDの広大な世界を理解するために、まずは3つの中心的な柱�
 
 | 柱 | 概要 | 対応する核心概念 |
 | :---- | :---- | :---- |
-| **1\. 基本力学** | 世界のあらゆる変化を駆動する、最も根源的な4つの要素。 | [意味圧](https://www.google.com/search?q=%23-%E6%84%8F%E5%91%B3%E5%9C%A7meaning-pressure)、[整合](https://www.google.com/search?q=%23-%E6%95%B4%E5%90%88alignment)、[跳躍](https://www.google.com/search?q=%23-%E8%B7%B3%E8%BA%8Dleap) |
-| **2\. 人間理解** | 人間の心理と行動を、動かしにくさの異なる4つの階層で分析するモデル。 | [人間モジュール：四層構造](https://www.google.com/search?q=%23-%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E5%9B%9B%E5%B1%A4%E6%A7%8B%E9%80%A0) |
-| **3\. 分析の視座** | 理論を扱う上で不可欠な、客観性と主観性に関する独自の分析態度。 | [構造観照（テオーリア）](https://www.google.com/search?q=%23-%E6%A7%8B%E9%80%A0%E8%A6%B3%E7%85%A7%E3%83%86%E3%82%AA%E3%83%BC%E3%83%AA%E3%82%A2)、[語り圏深度モデル](https://www.google.com/search?q=%23-%E8%AA%9E%E3%82%8A%E5%9C%8F%E6%B7%B1%E5%BA%A6%E3%83%A2%E3%83%87%E3%83%AB) |
+| **1\. 基本力学** | 世界のあらゆる変化を駆動する、最も根源的な4つの要素。 | [意味圧](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%84%8F%E5%91%B3%E5%9C%A7%E3%81%A8%E3%81%AF%EF%BC%9F.md)、[整合](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%95%B4%E5%90%88%E3%81%A8%E3%81%AF%EF%BC%9F.md)、[跳躍](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B7%B3%E8%BA%8D%E3%81%A8%E3%81%AF%EF%BC%9F.md) |
+| **2\. 人間理解** | 人間の心理と行動を、動かしにくさの異なる4つの階層で分析するモデル。 | [人間モジュール：四層構造](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E3%82%B3%E3%82%A2.md) |
+| **3\. 分析の視座** | 理論を扱う上で不可欠な、客観性と主観性に関する独自の分析態度。 | [構造観照（テオーリア）](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%EF%BC%8A%E9%87%8D%E8%A6%81%EF%BC%8A%E6%A7%8B%E9%80%A0%E8%A6%B3%E7%85%A7(Theoria).md)、[語り圏深度モデル](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9ASSD%E8%AA%9E%E3%82%8A%E5%9C%8F%E6%B7%B1%E5%BA%A6%E3%83%A2%E3%83%87%E3%83%AB%20v6.md) |
 
 ## **🔑 核心概念**
 
@@ -24,25 +24,25 @@ SSDの広大な世界を理解するために、まずは3つの中心的な柱�
 
 構造に作用するあらゆるエネルギーや影響の総称。物理的な力から、言葉、社会規範、内的葛藤まで、構造に変化を促すすべてのものを指します。
 
-[詳細はこちら](https://www.google.com/search?q=./%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%84%8F%E5%91%B3%E5%9C%A7%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+[詳細はこちら](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%84%8F%E5%91%B3%E5%9C%A7%E3%81%A8%E3%81%AF%EF%BC%9F.md)
 
 ### **⚖️ 整合（Alignment）**
 
 構造が意味圧に対し、エネルギー効率の良い安定した状態を保とうとするプロセス。「快」「正しさ」「習慣」の源泉であり、安定の力です。
 
-[詳細はこちら](https://www.google.com/search?q=./%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%95%B4%E5%90%88%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+[詳細はこちら](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%95%B4%E5%90%88%E3%81%A8%E3%81%AF%EF%BC%9F.md)
 
 ### **🚀 跳躍（Leap）**
 
 整合の限界を超えた時に発生する、非連続的で予測困難な構造変化。創造と破壊の両面を持ち、進化の原動力となります。
 
-[詳細はこちら](https://www.google.com/search?q=./%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B7%B3%E8%BA%8D%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+[詳細はこちら](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B7%B3%E8%BA%8D%E3%81%A8%E3%81%AF%EF%BC%9F.md)
 
 ### **👁️ 構造観照（テオーリア）**
 
 善悪や好悪といった感情的判断を一旦保留し、あらゆる事象を「構造と意味圧の相互作用」として冷静に分析しようとする知的態度。SSDを扱う上での倫理的・知的安全装置です。
 
-[詳細はこちら](https://www.google.com/search?q=./%EF%BC%8A%E9%87%8D%E8%A6%81%EF%BC%8A%E6%A7%8B%E9%80%A0%E8%A6%B3%E7%85%A7\(Theoria\).md)
+[詳細はこちら](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%EF%BC%8A%E9%87%8D%E8%A6%81%EF%BC%8A%E6%A7%8B%E9%80%A0%E8%A6%B3%E7%85%A7(Theoria).md)
 
 ## **🗺️ 理論体系へのガイド（歩き方）**
 
@@ -50,32 +50,32 @@ SSDの広大な世界を理解するために、まずは3つの中心的な柱�
 
 ### **Step 1: 全体像の把握（初心者向け）**
 
-* [**構造主観力学：シンプル版**](https://www.google.com/search?q=./%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E7%89%88.md): まずはこの文書で、理論の最も基本的な考え方に触れてください。  
-* **核心概念**: 上記の[意味圧](https://www.google.com/search?q=./%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%84%8F%E5%91%B3%E5%9C%A7%E3%81%A8%E3%81%AF%EF%BC%9F.md), [整合](https://www.google.com/search?q=./%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%95%B4%E5%90%88%E3%81%A8%E3%81%AF%EF%BC%9F.md), [跳躍](https://www.google.com/search?q=./%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B7%B3%E8%BA%8D%E3%81%A8%E3%81%AF%EF%BC%9F.md)を順に読むことで、SSDの基本言語を習得できます。
+* [**構造主観力学：シンプル版**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E7%89%88.md): まずはこの文書で、理論の最も基本的な考え方に触れてください。  
+* **核心概念**: 上記の[意味圧](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%84%8F%E5%91%B3%E5%9C%A7%E3%81%A8%E3%81%AF%EF%BC%9F.md), [整合](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%95%B4%E5%90%88%E3%81%A8%E3%81%AF%EF%BC%9F.md), [跳躍](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B7%B3%E8%BA%8D%E3%81%A8%E3%81%AF%EF%BC%9F.md)を順に読むことで、SSDの基本言語を習得できます。
 
 ### **Step 2: 興味分野への深掘り**
 
 #### **🧠 人間の心理や行動に興味がある方**
 
-* [**人間モジュール コア**](https://www.google.com/search?q=./Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E3%82%B3%E3%82%A2.md): 人間を理解するための「四層構造モデル」を学びます。  
-* [**快の力学**](https://www.google.com/search?q=./Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E5%BF%AB%E3%81%AE%E5%8A%9B%E5%AD%A6.md): なぜ人は喜びを感じるのかを構造的に解明します。  
-* [**笑いの力学**](https://www.google.com/search?q=./Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E7%AC%91%E3%81%84%E3%81%AE%E5%8A%9B%E5%AD%A6.md): 複雑な「笑い」という反応を、LSRとISRのモデルで分析します。  
-* [**整合駆動型探索モデル**](https://www.google.com/search?q=./Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E6%95%B4%E5%90%88%E9%A7%86%E5%8B%95%E5%9E%8B%E6%8E%A2%E7%B4%A2%E3%83%A2%E3%83%87%E3%83%AB.md): 「退屈」がなぜ成長の原動力になるのかを探求します。
+* [**人間モジュール コア**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E3%82%B3%E3%82%A2.md)  
+* [**快の力学**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E5%BF%AB%E3%81%AE%E5%8A%9B%E5%AD%A6.md)  
+* [**笑いの力学**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E7%AC%91%E3%81%84%E3%81%AE%E5%8A%9B%E5%AD%A6.md)  
+* [**整合駆動型探索モデル**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E6%95%B4%E5%90%88%E9%A7%86%E5%8B%95%E5%9E%8B%E6%8E%A2%E7%B4%A2%E3%83%A2%E3%83%87%E3%83%AB.md)
 
 #### **🤖 AI実装や数理モデルに興味がある方**
 
-* [**整合の数理モデル**](https://www.google.com/search?q=./%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB/%E6%95%B4%E5%90%88%E3%81%AE%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB.md): 整合プロセスをオーム則のアナロジーで数式化します。  
-* [**整合跳躍数理モデル**](https://www.google.com/search?q=./%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB/%E6%95%B4%E5%90%88%E8%B7%B3%E8%BA%8D%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB.md): 安定と変化を単一の数理モデルに統合します。  
-* [**最小整合跳躍数理モデル(nano\_ssd)**](https://www.google.com/search?q=./%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB/%E6%9C%80%E5%B0%8F%E6%95%B4%E5%90%88%E8%B7%B3%E8%BA%8D%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB\(nano_ssd\).md): ゲームNPCなどへのリアルタイム実装を目的とした軽量モデルの仕様です。
+* [**整合の数理モデル**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB/%E6%95%B4%E5%90%88%E3%81%AE%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB.md)  
+* [**整合跳躍数理モデル**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB/%E6%95%B4%E5%90%88%E8%B7%B3%E8%BA%8D%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB.md)  
+* [**最小整合跳躍数理モデル(nano_ssd)**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB/%E6%9C%80%E5%B0%8F%E6%95%B4%E5%90%88%E8%B7%B3%E8%BA%8D%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB(nano_ssd).md)
 
 #### **🔭 社会や物理、哲学的な探求に興味がある方**
 
-* [**構造主観力学：SSD語り圏深度モデル v6**](https://www.google.com/search?q=./%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9ASSD%E8%AA%9E%E3%82%8A%E5%9C%8F%E6%B7%B1%E5%BA%A6%E3%83%A2%E3%83%87%E3%83%AB%2520v6.md): 「神」や「正義」といった実体不明な概念が、なぜ世界を動かすのかを分析します。  
-* [**特殊解釈**](https://www.google.com/search?q=./%E7%89%B9%E6%AE%8A%E8%A7%A3%E9%87%88/): 物理学や脳科学といった他分野の現象を、SSDの視点から解釈する思考実験です。
+* [**構造主観力学：SSD語り圏深度モデル v6**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9ASSD%E8%AA%9E%E3%82%8A%E5%9C%8F%E6%B7%B1%E5%BA%A6%E3%83%A2%E3%83%87%E3%83%AB%20v6.md)  
+* [**特殊解釈**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/tree/main/%E7%89%B9%E6%AE%8A%E8%A7%A3%E9%87%88/)
 
 ### **Step 3: 分析の実践**
 
-* [**構造観照(Theoria)**](https://www.google.com/search?q=./%EF%BC%8A%E9%87%8D%E8%A6%81%EF%BC%8A%E6%A7%8B%E9%80%A0%E8%A6%B3%E7%85%A7\(Theoria\).md): 実際にSSDを用いて何かを分析する前に、必ずこの文書を読み、適切な分析姿勢を身につけてください。
+* [**構造観照(Theoria)**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%EF%BC%8A%E9%87%8D%E8%A6%81%EF%BC%8A%E6%A7%8B%E9%80%A0%E8%A6%B3%E7%85%A7(Theoria).md): 実際にSSDを用いて何かを分析する前に、必ずこの文書を読み、適切な分析姿勢を身につけてください。
 
 ## **📁 文書構造**
 
