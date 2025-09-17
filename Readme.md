@@ -1,0 +1,127 @@
+# **構造主観力学（SSD: Structural Subjectivity Dynamics）**
+
+**宇宙のあらゆる現象を、「安定と変化の動態」というただ一つのレンズを通して理解するための理論体系。**
+
+## **🎯 この理論が目指すもの**
+
+構造主観力学（SSD）は、物理現象から人間の心理、社会の歴史、AIの行動まで、すべてを\*\*「構造」**が**「意味圧」\*\*を受けて安定（**整合**）と変化（**跳躍**）を繰り返すプロセスとして統一的に記述する試みです。
+
+なぜ石は転がり、国は滅び、人の心は動くのか。SSDは、その根底にある普遍的な力学を解明するための分析ツールを提供します。
+
+## **🏛️ 理論の3つの柱**
+
+SSDの広大な世界を理解するために、まずは3つの中心的な柱から始めることをお勧めします。
+
+| 柱 | 概要 | 対応する核心概念 |
+| :---- | :---- | :---- |
+| **1\. 基本力学** | 世界のあらゆる変化を駆動する、最も根源的な4つの要素。 | [意味圧](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%84%8F%E5%91%B3%E5%9C%A7%E3%81%A8%E3%81%AF%EF%BC%9F.md)、[整合](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%95%B4%E5%90%88%E3%81%A8%E3%81%AF%EF%BC%9F.md)、[跳躍](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B7%B3%E8%BA%8D%E3%81%A8%E3%81%AF%EF%BC%9F.md) |
+| **2\. 人間理解** | 人間の心理と行動を、動かしにくさの異なる4つの階層で分析するモデル。 | [人間モジュール：四層構造](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E3%82%B3%E3%82%A2.md) |
+| **3\. 分析の視座** | 理論を扱う上で不可欠な、客観性と主観性に関する独自の分析態度。 | [構造観照（テオーリア）](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%EF%BC%8A%E9%87%8D%E8%A6%81%EF%BC%8A%E6%A7%8B%E9%80%A0%E8%A6%B3%E7%85%A7(Theoria).md)、[語り圏深度モデル](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9ASSD%E8%AA%9E%E3%82%8A%E5%9C%8F%E6%B7%B1%E5%BA%A6%E3%83%A2%E3%83%87%E3%83%AB%20v6.md) |
+
+## **🔑 核心概念**
+
+### **🔄 意味圧（Meaning Pressure）**
+
+構造に作用するあらゆるエネルギーや影響の総称。物理的な力から、言葉、社会規範、内的葛藤まで、構造に変化を促すすべてのものを指します。
+
+[詳細はこちら](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%84%8F%E5%91%B3%E5%9C%A7%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+
+### **⚖️ 整合（Alignment）**
+
+構造が意味圧に対し、エネルギー効率の良い安定した状態を保とうとするプロセス。「快」「正しさ」「習慣」の源泉であり、安定の力です。
+
+[詳細はこちら](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%95%B4%E5%90%88%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+
+### **🚀 跳躍（Leap）**
+
+整合の限界を超えた時に発生する、非連続的で予測困難な構造変化。創造と破壊の両面を持ち、進化の原動力となります。
+
+[詳細はこちら](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B7%B3%E8%BA%8D%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+
+### **👁️ 構造観照（テオーリア）**
+
+善悪や好悪といった感情的判断を一旦保留し、あらゆる事象を「構造と意味圧の相互作用」として冷静に分析しようとする知的態度。SSDを扱う上での倫理的・知的安全装置です。
+
+[詳細はこちら](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%EF%BC%8A%E9%87%8D%E8%A6%81%EF%BC%8A%E6%A7%8B%E9%80%A0%E8%A6%B3%E7%85%A7(Theoria).md)
+
+## **🗺️ 理論体系へのガイド（歩き方）**
+
+この理論体系は広範にわたるため、興味に応じた読み進め方を推奨します。
+
+### **Step 1: 全体像の把握（初心者向け）**
+
+* [**構造主観力学：シンプル版**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E7%89%88.md): まずはこの文書で、理論の最も基本的な考え方に触れてください。  
+* **核心概念**: 上記の[意味圧](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%84%8F%E5%91%B3%E5%9C%A7%E3%81%A8%E3%81%AF%EF%BC%9F.md), [整合](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%95%B4%E5%90%88%E3%81%A8%E3%81%AF%EF%BC%9F.md), [跳躍](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B7%B3%E8%BA%8D%E3%81%A8%E3%81%AF%EF%BC%9F.md)を順に読むことで、SSDの基本言語を習得できます。
+
+### **Step 2: 興味分野への深掘り**
+
+#### **🧠 人間の心理や行動に興味がある方**
+
+* [**人間モジュール コア**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E3%82%B3%E3%82%A2.md)  
+* [**快の力学**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E5%BF%AB%E3%81%AE%E5%8A%9B%E5%AD%A6.md)  
+* [**笑いの力学**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E7%AC%91%E3%81%84%E3%81%AE%E5%8A%9B%E5%AD%A6.md)  
+* [**整合駆動型探索モデル**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/Human_Module/%E4%BA%BA%E9%96%93%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%80%80%E6%95%B4%E5%90%88%E9%A7%86%E5%8B%95%E5%9E%8B%E6%8E%A2%E7%B4%A2%E3%83%A2%E3%83%87%E3%83%AB.md)
+
+#### **🤖 AI実装や数理モデルに興味がある方**
+
+* [**整合の数理モデル**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB/%E6%95%B4%E5%90%88%E3%81%AE%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB.md)  
+* [**整合跳躍数理モデル**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB/%E6%95%B4%E5%90%88%E8%B7%B3%E8%BA%8D%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB.md)  
+* [**最小整合跳躍数理モデル(nano_ssd)**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB/%E6%9C%80%E5%B0%8F%E6%95%B4%E5%90%88%E8%B7%B3%E8%BA%8D%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB(nano_ssd).md)
+
+#### **🔭 社会や物理、哲学的な探求に興味がある方**
+
+* [**構造主観力学：SSD語り圏深度モデル v6**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9ASSD%E8%AA%9E%E3%82%8A%E5%9C%8F%E6%B7%B1%E5%BA%A6%E3%83%A2%E3%83%87%E3%83%AB%20v6.md)  
+* [**特殊解釈**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/tree/main/%E7%89%B9%E6%AE%8A%E8%A7%A3%E9%87%88/)
+
+### **Step 3: 分析の実践**
+
+* [**構造観照(Theoria)**](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%EF%BC%8A%E9%87%8D%E8%A6%81%EF%BC%8A%E6%A7%8B%E9%80%A0%E8%A6%B3%E7%85%A7(Theoria).md): 実際にSSDを用いて何かを分析する前に、必ずこの文書を読み、適切な分析姿勢を身につけてください。
+
+## **📁 文書構造**
+
+.  
+├── 構造主観力学：シンプル版.md      \# (推奨) まずはじめに読むための入門書  
+├── 構造主観力学：意味圧とは？.md      \# 核心概念1  
+├── 構造主観力学：整合とは？.md        \# 核心概念2  
+├── 構造主観力学：跳躍とは？.md        \# 核心概念3  
+├── ＊重要＊構造観照(Theoria).md      \# (必須) 理論を扱う上での心構え  
+├── 構造主観力学：SSD語り圏深度モデル v6.md \# 独自の存在論・認識論モデル  
+|  
+├── 📁 Human\_Module/               \# 人間の心理・行動に関する分析モデル群  
+│   ├── 人間モジュール　コア.md  
+│   ├── 人間モジュール　快の力学.md  
+│   ├── 人間モジュール　笑いの力学.md  
+│   ├── 人間モジュール　反応の二段階モデル.md  
+│   ├── 人間モジュール　整合駆動型探索モデル.md  
+│   ├── 人間モジュール　未知意味圧への反応モデル.md  
+│   └── 人間モジュール　統合認知モデル.md  
+|  
+├── 📁 数理モデル/                   \# 理論を数式化・実装するためのモデル群  
+│   ├── 整合の数理モデル.md  
+│   ├── 整合跳躍数理モデル.md  
+│   ├── 整合跳躍数理APIモデル.md  
+│   ├── 最小整合跳躍数理モデル(nano\_ssd).md  
+│   └── 構造主観力学：客観性の定量的評価フレームワーク.md  
+|  
+└── 📁 特殊解釈/                     \# 他分野の概念をSSDで再解釈する試み  
+    ├── 構造主観力学（SSD）による現代物理学の解釈.md  
+    ├── 脳神経物質と構造主観力学（SSD）の統合モデル.md  
+    └── ...
+
+## **⚠️ 重要な注意事項**
+
+### **理論の性質**
+
+* **SSDは「絶対的真理」ではありません。** これは世界を理解するための一つの「語り」であり、分析ツールです。  
+* この理論自体が意味圧を受けて絶えず変化していく「生きた構造」です。その有効性は、それを用いることで「従来見えなかった構造が見えるようになったか」という**作用**によってのみ評価されます。
+
+### **構造観照の必要性**
+
+* SSDの運用には\*\*「構造観照（テオーリア）」\*\*の視座が不可欠です。感情的な断罪や自己正当化の道具として使用してはなりません。  
+* 分析という行為自体が、分析対象に対して新たな意味圧を及ぼすことを常に自覚してください。
+
+## **🤝 貢献とフィードバック**
+
+この理論体系は発展途上のものです。実際の応用を通じた検証、異分野からの知見に基づく批判、そして新たなモデルの提案を歓迎します。すべての貢献者は「構造観照」の姿勢を保ち、理論の健全な発展に寄与することが期待されます。
+
+*語りえぬ構造は、作用だけを語れ。そして、その作用の整合性だけが、我々の語りの信頼性を担保する。*

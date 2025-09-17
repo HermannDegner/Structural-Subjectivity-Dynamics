@@ -100,8 +100,7 @@ L5は「すべての語りの源泉」として機能します：
 ---
 
 ## 関連概念
-- [構造観照（テオーリア）](./構造観照.md)
-- [意味圧とは](./意味圧とは.md)
-- [整合とは何か](./整合とは何か.md)
-- [跳躍とは何か](./跳躍とは何か.md)
-- [構造主観力学 核心理論](./核心理論.md)
+- [構造観照（テオーリア）](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%A7%8B%E9%80%A0%E8%A6%B3%E7%85%A7%EF%BC%88%E3%83%86%E3%82%AA%E3%83%BC%E3%83%AA%E3%82%A2%EF%BC%89.md)
+- [意味圧とは](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%84%8F%E5%91%B3%E5%9C%A7%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+- [整合とは何か](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E6%95%B4%E5%90%88%E3%81%A8%E3%81%AF%EF%BC%9F.md)
+- [跳躍とは何か](https://github.com/HermannDegner/Structural-Subjectivity-Dynamics/blob/main/%E6%A7%8B%E9%80%A0%E4%B8%BB%E8%A6%B3%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B7%B3%E8%BA%8D%E3%81%A8%E3%81%AF%EF%BC%9F.md)
